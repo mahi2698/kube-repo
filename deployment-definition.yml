@@ -5,8 +5,8 @@ metadata:
   labels:
     app: myapp
     type: front-end 
- spec:
-   template:
+spec:
+  template:
      metadata:
        name: myapp-pod
        labels:
