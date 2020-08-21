@@ -9,5 +9,5 @@ spec:
   containers:
     - name: result-app-pod
       image: mahi2698/example-voting-app/vote
-      port:
+      ports:
         - containerPort: 80
