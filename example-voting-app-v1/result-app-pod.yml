@@ -7,7 +7,7 @@ metadata:
     app: example-voting-app
 spec:
   containers:
-    - name: result-pod
+    - name: result-app-pod
       image: mahi2698/example-voting-app/vote
       port:
         - containerPort: 80
