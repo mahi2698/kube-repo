@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata: 
-  name: voting-app-pod
+  name: postgres-pod
   labels:
     app: voting-app
 spec:
