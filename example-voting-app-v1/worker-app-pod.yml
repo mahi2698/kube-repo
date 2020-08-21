@@ -8,5 +8,5 @@ metadata:
 spec:
   containers:
     - name: worker-app-pod
-      image: mahi2698/example-voting-app/worker
+      image: prabhavagrawal/worker-app
       
